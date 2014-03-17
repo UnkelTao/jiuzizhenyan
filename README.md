@@ -16,6 +16,6 @@
 
 
 ##源码地址
-[该版](https://github.com/UnkelTao/jiuzizhenyan)
-[2048原版](https://github.com/gabrielecirulli/2048)
+[该版](https://github.com/UnkelTao/jiuzizhenyan)  
+[2048原版](https://github.com/gabrielecirulli/2048)  
 
